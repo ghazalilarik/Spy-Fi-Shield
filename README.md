@@ -1,6 +1,7 @@
 # Spy-Fi-Shield - Wi-Fi Intrusion Alert with Device Fingerprinting + Real-Time Attack Logger
 
 ![Meme](https://i.imgflip.com/5z7jjz.jpg)
+
 *When your ESP8266 catches an unauthorized device trying to sneak into your network.*
 
 ## Overview
